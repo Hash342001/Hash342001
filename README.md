@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hash342001
-- 👀 I’m interested in Data Science and Python Programming
+- 👀 I’m interested in Data Science, Machine Learing, AI and Python Programming
 - 🌱 I’m currently learning Data Science for making my carrier in it
-- 💞️ I’m looking to collaborate on Python Programming
+- 💞️ I’m looking to collaborate on DS, ML, AI and Python Programming
 - 📫 You can reach me through IG: _hash_4 FB: Harsh Tomer or Twitter: hash_music34
 
 <!---
